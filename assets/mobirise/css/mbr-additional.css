@@ -1557,6 +1557,10 @@ body {
 .cid-qw4xzaU6Va .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qw4xzaU6Va .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qw4xzaU6Va .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qw4xzaU6Va .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qw4xzaU6Va .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1651,6 +1655,10 @@ body {
   .cid-qw4xzaU6Va .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qw4xzaU6Va .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qw4xzaU6Va .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qw4xzaU6Va .navbar-collapse.collapsing .navbar-buttons,
   .cid-qw4xzaU6Va .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1705,6 +1713,10 @@ body {
   }
 }
 .cid-qw4xRCTxF0 H1 {
+  text-align: center;
+}
+.cid-qw4xRCTxF0 .mbr-text,
+.cid-qw4xRCTxF0 .mbr-section-btn {
   text-align: center;
 }
 .cid-qw4xzexiCR {
@@ -1995,6 +2007,10 @@ body {
 .cid-qw4xzaU6Va .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qw4xzaU6Va .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qw4xzaU6Va .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qw4xzaU6Va .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qw4xzaU6Va .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2088,6 +2104,10 @@ body {
   .cid-qw4xzaU6Va .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qw4xzaU6Va .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qw4xzaU6Va .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qw4xzaU6Va .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qw4xzaU6Va .navbar-collapse.collapsing .navbar-buttons,
   .cid-qw4xzaU6Va .navbar-collapse.show .navbar-buttons {
